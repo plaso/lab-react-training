@@ -1,0 +1,19 @@
+.Facebook__item {
+  border: 1px solid black;
+  padding: 8px;
+  display: flex;
+  gap: 8px;
+  margin-bottom: 8px;
+}
+
+.Facebook__item img {
+  height: 120px;
+}
+
+.Facebook__item p {
+  margin-top: 0;
+}
+
+.Facebook .selected {
+  background-color: aquamarine;
+}
